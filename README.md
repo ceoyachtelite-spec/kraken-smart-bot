@@ -1,2 +1,7 @@
 # kraken-smart-bot
 RSI-based automated trading bot — dry-run safe
+# kraken‑smart‑bot
+RSI‑based automated trading bot — dry‑run safe
+
+## How to use
+1️⃣ Install packages
