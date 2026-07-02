@@ -1,3 +1,5 @@
 krakenex
 python-dotenv
+krakenex
+python-dotenv
 
