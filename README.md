@@ -5,4 +5,3 @@ RSI‑based automated trading bot — dry‑run safe
 1. Install packages
 ```bash
 pip install -r requirements.txt
-
